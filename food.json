@@ -3,6 +3,7 @@
         "_id": {
             "$oid": "5eee651f739f8c674fd736ee"
         },
+        "id":"Order1",
         "name": "Tofu Bao",
         "image": "https://photo2.foodgawker.com/wp-content/uploads/2020/12/3673283.jpg",
         "price": "250",
@@ -12,6 +13,7 @@
         "_id": {
             "$oid": "5eee6671a27a66807cf2bea2"
         },
+        "id":"Order2",
         "name": "Tacos De alambre",
         "image": "https://photo.foodgawker.com/wp-content/uploads/2020/10/3652339.jpg",
         "price": "300",
@@ -21,6 +23,7 @@
         "_id": {
             "$oid": "5eee6692a27a66807cf2bea3"
         },
+        "id":"Order3",
         "name": "Tacos Al Pastor",
         "image": "https://photo2.foodgawker.com/wp-content/uploads/2020/11/3666680.jpg",
         "price": "200",
