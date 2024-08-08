@@ -25,14 +25,5 @@
         "image": "https://photo2.foodgawker.com/wp-content/uploads/2020/11/3666680.jpg",
         "price": "200",
         "description": "warmth from spices and sweetness from pineapple"
-    },
-    {
-        "_id": {
-            "$oid": "5eee66a5a27a66807cf2bea4"
-        },
-        "name": "Chicken Bruschetta",
-        "image": "https://photo.foodgawker.com/wp-content/uploads/2020/10/3655673.jpg",
-        "price": "500",
-        "description": "crunch, succulent juicy chicken and a glaze drizzle"
     }
 ]
